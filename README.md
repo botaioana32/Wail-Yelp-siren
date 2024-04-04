@@ -1,2 +1,2 @@
 # Wail-Yelp-siren
-This repository contains a model for the Wail and Yelp siren made in LTSpice with 555 integrated circuits and Op-Amps.
+This repository contains a model for the Wail and Yelp siren made in LTSpice. This project contains two signal generators obtained with 555 integrated circuits. When a certain threshold voltage is reached, the Yelp siren adds to the Wail siren. The parameters utilized and the explanations of the circuit in Romanian can be found in the ppt document named "Bota_Ioana_Rerefat_SirenaWail+Yelp".
